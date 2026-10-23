@@ -1,6 +1,5 @@
 # Компьютерное зрение, 2026
 
-> Заполните три строки ниже и удалите эту подсказку.
 
 - **Студент:** Шереметов Мурат Олегович
 - **Группа:** Т.МО41
@@ -38,7 +37,7 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/ykvnkm/computer-vision-course.git
 cd computer-vision-course
-python data/get_data.py --variant NN
+python data/get_data.py --variant 22
 ```
 
 Порядок запуска каждой работы описан в README её папки.
